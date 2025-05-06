@@ -1,4 +1,4 @@
-# 📘 Java Exercises
+# 📘 Java Projects
 
 **Purpose:**  
 This repository contains solved Java exercises to help you practice and reinforce key language concepts.
@@ -6,4 +6,4 @@ This repository contains solved Java exercises to help you practice and reinforc
 ## How to Use
 1. Clone this repo:
    ```bash
-   git clone https://github.com/kauax-vinicius/java-exercises.git
+   git clone https://github.com/kauax-vinicius/java-projects.git
